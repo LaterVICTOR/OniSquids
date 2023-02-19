@@ -1,8 +1,8 @@
 {
-    "name": "Squid Craft Game",
-    "preductname": "SquidCraftGame",
-    "version": "1.0.0",
-    "description": "SquidCraftGame",
+    "name": "OniGameStudio",
+    "preductname": "OniGameStudio",
+    "version": "1.0.1",
+    "description": "Ultra Extremo",
     "main": "src/app.js",
     "author": "LateVICTOR",
     "url": "https://onilaucherultra.000webhostapp.com/launcher/",

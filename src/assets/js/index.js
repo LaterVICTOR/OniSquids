@@ -24,7 +24,7 @@ class Splash {
         let splashes = [
             { "message": "Vivo", "author": "LaterVICTOR" },
             { "message": "Codigo por", "author": "LaterVICTOR" },
-            { "message": "Squids Games", "author": "OniGameStudio" }
+            { "message": "Ultra extremo", "author": "OniGameStudio" }
         ]
         let splash = splashes[Math.floor(Math.random() * splashes.length)];
         this.splashMessage.textContent = splash.message;
